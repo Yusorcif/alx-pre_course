@@ -1,2 +1,1 @@
-My first readme
-# alx-pre_course
+my first use of this command
